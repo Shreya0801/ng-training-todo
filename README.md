@@ -70,6 +70,6 @@ MONGO_URI=mongodb://localhost:27017/todo-app
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by Shreya Singh
